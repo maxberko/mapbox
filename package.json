@@ -1,0 +1,11 @@
+{
+  "name": "02-Weather",
+  "version": "1.0.0",
+  "main": "lib/app.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "autoprefixer": "^9.8.5",
+    "mapbox-gl": "^1.11.1",
+    "tailwindcss": "^1.6.0"
+  }
+}
